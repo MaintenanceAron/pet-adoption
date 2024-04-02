@@ -5,6 +5,10 @@ html {
   background-color: rgb(255, 255, 255);
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: "Source Sans 3", sans-serif;
 
