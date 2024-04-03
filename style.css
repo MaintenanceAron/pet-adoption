@@ -164,7 +164,18 @@ body {
   font-family: "Source Sans 3", sans-serif;
   font-size: 1.15rem;
   color: #9f9f9f;
+  cursor: pointer;
 
+}
+
+.pet-filter .active,
+.pet-filter .active:hover {
+  color: #475AFF;
+  text-decoration: underline;
+}
+
+.pet-filter button:hover {
+  color: #7d7d7d;
 }
 
 .site-footer p {
